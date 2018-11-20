@@ -5,9 +5,9 @@ body {
 }
 			h1{
 			  text-align:center;
-        color:blue;
+        			color:blue;
 				font-family:'DancingScriptRegular';
-				font-size:400%;
+				font-size:400px;
 }
          
 			i{
@@ -18,7 +18,7 @@ p {
    font-family: 'DancingScriptRegular'; 
    font-weight: normal; 
    font-style: normal;
-   font-size:200%;
+   font-size:200px;
 }
 
 		
